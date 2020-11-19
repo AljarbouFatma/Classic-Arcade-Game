@@ -30,5 +30,3 @@ resource loading via immediately-invoked function expressions (IIFE)
 Summary
 Frogger Arcade is a variation of the classic Frogger arcade game.
 
-demo for play:
-https://aljarboufatma.github.io/
